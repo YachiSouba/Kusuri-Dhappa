@@ -46,7 +46,22 @@ The sides of Kusuri Dhappa have no functional buttons.
 
 What exactly is the reason behind the name?????  
 Well, "Kusuri" means medicine in Japanese.    
-while, "Dhappa" is a Hindi word which showcases a loud sound or a line said by the chaser when playing tag (pakdum pakdai) when they catches the player.  
+while, "Dhappa" is a Hindi word which showcases a loud sound or a line said by the chaser when playing tag (pakdum pakdai) when they catches the player. 
+
+CAD with colour coding;  
+
+<img width="717" height="702" alt="Screenshot 2026-05-29 123602" src="https://github.com/user-attachments/assets/d4528a2d-6522-470c-8319-fddf3e268759" />
+<img width="624" height="623" alt="Screenshot 2026-05-29 123546" src="https://github.com/user-attachments/assets/1aa963ce-02c5-4c13-8b49-90d61e0212c8" />
+<img width="589" height="579" alt="Screenshot 2026-05-29 123625" src="https://github.com/user-attachments/assets/32ee6792-1016-4697-91a9-1f88fd49843d" />
+<img width="822" height="560" alt="Screenshot 2026-05-29 123611" src="https://github.com/user-attachments/assets/b225710f-cffe-4cdd-b4d5-4ad82db67fdd" />  
+
+I never knew that the 3D model would look so different from what I imagined so far.  
+
+
+Schematics;
+<img width="932" height="638" alt="Screenshot 2026-05-27 232136" src="https://github.com/user-attachments/assets/be418b2f-34cd-4911-b1d4-4f6b4e1d0ee6" />
+
+
 
 
 
