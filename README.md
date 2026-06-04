@@ -61,6 +61,16 @@ I never knew that the 3D model would look so different from what I imagined so f
 Schematics;
 <img width="932" height="638" alt="Screenshot 2026-05-27 232136" src="https://github.com/user-attachments/assets/be418b2f-34cd-4911-b1d4-4f6b4e1d0ee6" />
 
+After researching on the real life components, the front 2D design will look like this;
+<img width="600" height="399" alt="Untitled2_20260603130920" src="https://github.com/user-attachments/assets/46ddfc02-390b-4060-8f67-989122260d43" />
+
+Also I was trying to make the 3D model aside CAD but making the ponytails was challenging so I left it.   
+But while making I discovered that the placement of components will be different from what I have showed in the CAD;  
+<img width="869" height="545" alt="Screenshot 2026-06-04 123245" src="https://github.com/user-attachments/assets/acde20fd-6eab-4cd9-ab30-157115d8655b" />
+<img width="1050" height="581" alt="Screenshot 2026-06-04 123231" src="https://github.com/user-attachments/assets/9e289b48-29f3-4460-87d0-1464ea587885" />
+
+
+
 
 
 
